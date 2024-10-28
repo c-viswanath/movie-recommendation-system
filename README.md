@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 This project is a Content-Based Movie Recommendation System that uses movie metadata from the TMDB 5000 dataset to recommend movies similar to a given title. The recommendation engine is built using techniques such as text preprocessing, stemming, and cosine similarity.
-
+Try out here: https://cinemarecommendation.streamlit.app/
 ## Dataset
 
 The dataset used for this project includes:
